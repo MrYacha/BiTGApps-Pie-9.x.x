@@ -1,0 +1,8 @@
+CustomGAppPackage=BiTGApps
+BiTGAppType=
+arch=arm64
+sdk=28
+platform=9.x.x
+BuildDate=11-Aug-2018
+BuildID=0.1
+Developer=TheHitMan @ xda-developers
