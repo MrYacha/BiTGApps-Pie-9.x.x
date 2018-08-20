@@ -1,12 +1,12 @@
 #!/sbin/sh
-# 
+#
 # /system/addon.d/90bit_gapps.sh
 # Treble addon.d shell file
 #
 . /tmp/backuptool.functions
 
 list_files() {
-cat <<EOF
+cat << EOF
 app/FaceLock/FaceLock.apk
 app/FaceLock/lib/arm64/libfacenet.so
 app/GoogleContactsSyncAdapter/GoogleContactsSyncAdapter.apk
@@ -110,4 +110,3 @@ case "$1" in
     chmod 0755 /system/addon.d/90bit_gapps.sh
   ;;
 esac
-

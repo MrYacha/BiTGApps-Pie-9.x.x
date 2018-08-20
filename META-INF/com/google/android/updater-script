@@ -1,6 +1,6 @@
 ui_print(" ");
 ui_print(" **************** BiTGApps 0.1 *****************");
-ui_print(" Custom GApp Package  : BiTGApps                ");
+ui_print(" Custom GApps Package : BiTGApps                ");
 ui_print(" Developed By         : TheHitMan               ");
 ui_print(" ***********************************************");
 ui_print(" ");
@@ -135,7 +135,7 @@ run_program("/sbin/busybox", "umount", "/system");
 ui_print("- Done");
 ui_print(" ");
 ui_print(" ****************** Software *******************");
-ui_print(" Custom GApp     : BiTGApps                     ");
+ui_print(" Custom GApps    : BiTGApps                     ");
 ui_print(" Android version : 9.x.x                        ");
 ui_print(" SDK version     : 28                           ");
 ui_print(" Build date      : Sat Aug 11 11:00:01 UTC 2018 ");
@@ -143,4 +143,3 @@ ui_print(" Build ID        : 0.1                          ");
 ui_print(" Developed By    : TheHitMan @XDA Developers    ");
 ui_print(" ***********************************************");
 ui_print(" ");
-
