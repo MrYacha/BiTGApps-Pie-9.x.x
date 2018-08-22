@@ -1,7 +1,6 @@
 #!/sbin/sh
 #
 # /system/addon.d/90bit_gapps.sh
-# Treble addon.d shell file
 #
 . /tmp/backuptool.functions
 

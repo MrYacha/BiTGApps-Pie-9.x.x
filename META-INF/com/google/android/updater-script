@@ -1,7 +1,8 @@
 ui_print(" ");
-ui_print(" **************** BiTGApps 0.1 *****************");
+ui_print(" **************** BiTGApps X.X *****************"); # Replace "X.X" with version code.
 ui_print(" Custom GApps Package : BiTGApps                ");
 ui_print(" Developed By         : TheHitMan               ");
+ui_print(" Contributor          : User_Name               "); # Add your "User_name" here if you contribute to this project.
 ui_print(" ***********************************************");
 ui_print(" ");
 ui_print("- Mount Partition");
@@ -138,8 +139,9 @@ ui_print(" ****************** Software *******************");
 ui_print(" Custom GApps    : BiTGApps                     ");
 ui_print(" Android version : 9.x.x                        ");
 ui_print(" SDK version     : 28                           ");
-ui_print(" Build date      : Sat Aug 11 11:00:01 UTC 2018 ");
-ui_print(" Build ID        : 0.1                          ");
-ui_print(" Developed By    : TheHitMan @XDA Developers    ");
+ui_print(" Build date      : Wed Aug 22 02:25:15 UTC 2018 "); # Change according to next release.
+ui_print(" Build ID        : X.X                          "); # Replace "X.X" with version code.
+ui_print(" Developed By    : TheHitMan @ xda-developers   ");
+ui_print(" Contributor     : User_Name                    "); # Add your "User_name" here if you contribute to this project.
 ui_print(" ***********************************************");
 ui_print(" ");
